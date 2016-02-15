@@ -1,8 +1,8 @@
 package main
 
 import (
-	"clearblade/cbjson"
 	"fmt"
+	"github.com/clearblade/cbjson"
 	"os"
 )
 
